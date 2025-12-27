@@ -1,0 +1,13 @@
+Project title :-
+
+Leveraging Machine Learning Techniques on Spirogram Time-Series and Spirometry Data for Enhancing the Accurate classification of Related Lung Conditions 
+
+ Short description of project :- 
+
+Idea: This project uses ML algorithms for precise classification of lung conditions in patients based on spirogram time-series, PFT, and spirometry data. 
+
+Motivation: COPD and lung diseases are a major life-threatening concern , globally as well as in India , and it is often linked to error-prone and inaccurate , creating the need for accurate diagnostic models.
+
+Methods: LogisticRegression, NaiveBayes, GaussianDiscriminantAnalysis, LinearDiscriminateAnalysis, PrincipalComponentAanalysis, KNN, , SVM, PolynomialRegression, DecisionTree,  RandomFforest, ANN, (CNN, RNN, LSTM, BiLSTM, )
+
+Objectives: Enhanced accuracy for classification of COPD and lung conditions.
