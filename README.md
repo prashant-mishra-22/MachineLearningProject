@@ -1,4 +1,4 @@
-# Lung Condition Classification Using Machine Learning on Spirometry Data
+# Accurate classification of Related Lung conditions based on Spirometry Data 
 
 <div align="center">
 
@@ -38,13 +38,13 @@
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/Lung-Condition-Classifier?style=social)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/Lung-Condition-Classifier?style=social)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/Lung-Condition-Classifier)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/Lung-Condition-Classifier)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/pulls)
-[![Last Commit](https://img.shields.io/github/last-commit/prashant-mishra-22/Lung-Condition-Classifier)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/commits/main)
-[![Code Size](https://img.shields.io/github/languages/code-size/prashant-mishra-22/Lung-Condition-Classifier)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier)
-[![Dataset](https://img.shields.io/badge/Dataset-1314%20Patients-brightgreen)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier)
+[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/?style=social)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/MachineLearningProject?style=social)](https://github.com/prashant-mishra-22/MachineLearningProject/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/MachineLearningProject)](https://github.com/prashant-mishra-22/MachineLearningProject/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/MachineLearningProject)](https://github.com/prashant-mishra-22/MachineLearningProject/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/prashant-mishra-22/MachineLearningProject)](https://github.com/prashant-mishra-22/MachineLearningProject/commits/main)
+[![Code Size](https://img.shields.io/github/languages/code-size/prashant-mishra-22/MachineLearningProject)](https://github.com/prashant-mishra-22/MachineLearningProject)
+[![Dataset](https://img.shields.io/badge/Dataset-1314%20Patients-brightgreen)](https://github.com/prashant-mishra-22/MachineLearningProject)
 
 </div>
 
@@ -729,14 +729,14 @@ The project serves as a foundation for more advanced respiratory ML applications
 **Institution**: National Institute of Technology Patna  
 **Supervisor**: Dr. Shyam Singh Rajput  
 **Department**: Computer Science & Engineering  
-**Duration**: January 2023 – July 2023
+**Duration**: July 2025 – December 2025
 
 ## 🌟 Star this repository if you found it useful!
 
-[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/Lung-Condition-Classifier?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/Lung-Condition-Classifier?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/Lung-Condition-Classifier?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/Lung-Condition-Classifier?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/MachineLearningProject?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/MachineLearningProject/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/MachineLearningProject?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/MachineLearningProject/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/MachineLearningProject?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/MachineLearningProject/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/MachineLearningProject?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/MachineLearningProject/pulls)
 
 ## 📄 License
 
@@ -767,13 +767,13 @@ Found a bug? Have a feature request? Please open an issue on GitHub or submit a 
 ## 📧 Contact
 
 For academic collaborations or research inquiries:
-- **Prashant Kumar Mishra**: prashant.mishra.22@nitp.ac.in
-- **GitHub Issues**: [Project Issues](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/issues)
+- **Prashant Kumar Mishra**: prashantm.mca24@nitp.ac.in
+- **GitHub Issues**: [Project Issues](https://github.com/prashant-mishra-22/MachineLearningProject/issues)
 
 **Made with ❤️ by Prashant Kumar Mishra | NIT Patna**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-mishra-22)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashant-mishra-22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashant.mishra.22@nitp.ac.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantm.mca24@nitp.ac.in)
 
 </div>
