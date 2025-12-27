@@ -38,7 +38,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/?style=social)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/MachineLearningProject?style=social)](https://github.com/prashant-mishra-22/Lung-Condition-Classifier/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/MachineLearningProject?style=social)](https://github.com/prashant-mishra-22/MachineLearningProject/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/MachineLearningProject)](https://github.com/prashant-mishra-22/MachineLearningProject/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/MachineLearningProject)](https://github.com/prashant-mishra-22/MachineLearningProject/pulls)
